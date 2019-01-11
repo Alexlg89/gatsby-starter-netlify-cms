@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
-title: Jetzt wird gebloggt
-date: 2019-01-11T06:51:23.746Z
+title: Jetzt wird gebloggt yeah
+date: 2019-01-10T23:00:00.000Z
 description: 'Auf gehts, mein Blog ist eingerichtet. Yeeeehaaw!'
 tags:
   - new blog
